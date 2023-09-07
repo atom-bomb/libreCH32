@@ -10,7 +10,7 @@ Just type `make`.
 
 The resultant binary is written to a subdirectory corresponding to the target architecture (ie, x86\_64/bin/libreCH32).
 
-### How run ###
+### How to run ###
 
 to program firmware, verify and then reboot the device:
 
